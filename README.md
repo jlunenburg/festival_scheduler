@@ -2,7 +2,7 @@
 * Clone the repo (if desired, in a [virtual environment](https://docs.python.org/3/library/venv.html))
 * Install requirements:
 ```commandline
-python3 -m pip install requirements.txt
+python3 -m pip install -r requirements.txt
 ```
 
 # Running the application
